@@ -1,6 +1,4 @@
-require("nvh.remap");
-require("nvh.base");
-require("nvh.packer");
-
--- theme
-vim.cmd("colorscheme gruvbox");
+require("core.base");
+require("core.remap");
+require("core.lazy");
+require("core.lsp");

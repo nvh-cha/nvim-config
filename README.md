@@ -2,16 +2,18 @@
 a *really small* neovim config that i use for coding in c(the chad language)
 
 ## Plugins
-i used *[packer](https://github.com/wbthomason/packer.nvim)* for plugins
+i used *[packer](https://github.com/folke/lazy.nvim)* for plugins
 heres a list of the plugins:
-- ***[telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)*** *a fuzzy finder*
-- ***[nvim treesitter](https://github.com/nvim-treesitter/nvim-treesitter)*** *parser*
-- ***[oil.nvim](https://github.com/stevearc/oil.nvim)*** *really cool file explorer* 
-- ***[lualine](https://github.com/nvim-lualine/lualine.nvim)*** *idk it looks cool*
-- ***[lsp-zero](https://github.com/VonHeikemen/lsp-zero.nvim)*** *lsp stuff*
-- ***[mason](https://github.com/williamboman/mason.nvim)*** *lsp stuff pt.2*
-- ***[nvim-cmp](https://github.com/hrsh7th/nvim-cmp)*** *completion engine*
+  - ***[blink](https://github.com/saghen/blink.cmp")***
+  - ***[gruvbox](https://github.com/ellisonleao/gruvbox.nvim")***
+  - ***[monochrome](https://github.com/kdheepak/monochrome.nvim")***
+  - ***[lualine](https://github.com/nvim-lualine/lualine.nvim")***
+  - ***[treesitter](https://github.com/nvim-treesitter/nimv-treesitter")***
+  - ***[telescope](https://github.com/nvim-telescope/telescope.nvim")***
+  - ***[oil.nvim](https://github.com/stevearc/oil.nvim")***
+  - ***[vimsence](https://github.com/vimsence/vimsence")***
+  - ***[transparent](https://github.com/xiyaowong/transparent.nvim")***
+  - ***[lazy](https://github.com/folke/lazy.nvim")***
 
 ## Screenshots
 ![0](images/0.png "screenshot")
-![1](images/1.png "screenshot")
