@@ -11,5 +11,3 @@ vim.keymap.set("n", "<leader>ss", ":split\n<C-w><C-j>");
 vim.keymap.set("n", "<leader>sf", builtin.find_files, {});
 vim.keymap.set("n", "<leader>sg", builtin.live_grep, {});
 vim.keymap.set("n", "<leader>e", ":Oil --float\n");
-
-vim.keymap.set("n", "<leader>tt", ":Themery\n");
