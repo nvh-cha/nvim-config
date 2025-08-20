@@ -7,5 +7,4 @@ return {
 			vim.cmd.colorscheme("gruvbox");
 		end,
 	},
-	"kdheepak/monochrome.nvim",
 };
